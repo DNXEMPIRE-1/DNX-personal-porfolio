@@ -25,5 +25,5 @@ Hello there! 👋 Welcome to my personal portfolio repository. This is where I s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/personal-portfolio.git
+   git clone https://github.com/DNXEMPIRE-1/personal-portfolio.git
    cd personal-portfolio
