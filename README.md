@@ -1,7 +1,4 @@
-# DNX-personal-porfolio
- Personal Website
- 
-# 👩‍💻 [Your Name]'s Personal Portfolio 🚀
+# 👩‍💻 DNX's Personal Portfolio 🚀
 
 ## Introduction
 
